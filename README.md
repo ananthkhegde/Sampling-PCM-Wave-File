@@ -13,3 +13,4 @@ Up/Down Sampling of PCM Wave file
     * It prompts the user to enter new frequency in Hz.
     * Enter frequency greater than current frequency to do up sampling and vice versa.
     * Refer the document [here](https://github.com/ananthkhegde/Sampling-PCM-Wave-File/blob/master/WavFormatDocs.pdf) to read more about         .wave file format.
+    * Restore database backup file from [here](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-                               Service/tree/master/database)
