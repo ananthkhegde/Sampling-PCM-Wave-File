@@ -12,3 +12,4 @@ Up/Down Sampling of PCM Wave file
     * It displays the current sampling rate in Hz(Hertz).
     * It prompts the user to enter new frequency in Hz.
     * Enter frequency greater than current frequency to do up sampling and vice versa.
+    * Refer the document [here](https://github.com/ananthkhegde/Sampling-PCM-Wave-File/blob/master/WavFormatDocs.pdf) to read more about         .wave file format.
